@@ -1,1 +1,4 @@
 it is some else
+it is something after commit
+it is a change in new branch    
+why????????

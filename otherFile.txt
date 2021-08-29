@@ -1,2 +1,8 @@
 it is some else
+
+it is something after commit
+it is a change in new branch    
+why????????
+i can understand what is going on
+
 this change is for master
